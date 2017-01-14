@@ -1,0 +1,9 @@
+<?php
+  /*
+   * Author: Steve Delahunty (steve.delahunty@gmail.com)
+   * 
+   * Handy way to automatically load custom variables into scripts. 
+   */
+$username = "";
+$password = "";
+
